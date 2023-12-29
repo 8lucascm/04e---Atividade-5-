@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<propertygroup>
+<targetframework>net6.0</targetframework>
+<implicitusings>enable</implicitusings>
+<Nullable>enable</Nullable>
+
+<ispackable>false</ispackable>
+</propertygroup>
